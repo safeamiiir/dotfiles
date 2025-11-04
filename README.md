@@ -1,6 +1,8 @@
 # list of config files
 
-### Maccy
+### Maccy --clipbard manager
+> [!NOTE]
+>  File: ```org.p0deje.Maccy.plist``` [[Link](https://github.com/p0deje/Maccy)]
 
 First make sure the path to the preferences (Property list) has not been changed, it shold be at `~/Library/Containers/org.p0deje.Maccy/Data/Library/Preferences/org.p0deje.Maccy.plist`.
 
