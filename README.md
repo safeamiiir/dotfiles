@@ -18,6 +18,6 @@ First make sure the path to the preferences (Property list) has not been changed
    2. Do your changes.
    3. Convert it back to binary:
       ```bash
-      plutil -convert xml1 <paht_to_org.p0deje.Maccy.plist>
+      plutil -convert binary1 <paht_to_org.p0deje.Maccy.plist>
       ```
 </details>
