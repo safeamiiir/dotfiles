@@ -10,9 +10,14 @@ First make sure the path to the preferences (Property list) has not been changed
 
 <details>
 <summary>Click if you wanted to see the configs in an xml format.</summary>
-1. Convert preferences into xml:
-   `plutil -convert xml1 <paht_to_org.p0deje.Maccy.plist>`
-2. Do your changes
-3. Convert it back to binary:
-   `plutil -convert xml1 <paht_to_org.p0deje.Maccy.plist>`
+
+   1. Convert preferences into xml:
+      ```bash
+      plutil -convert xml1 <paht_to_org.p0deje.Maccy.plist>
+      ```
+   2. Do your changes.
+   3. Convert it back to binary:
+      ```bash
+      plutil -convert xml1 <paht_to_org.p0deje.Maccy.plist>
+      ```
 </details>
